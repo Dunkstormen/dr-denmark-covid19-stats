@@ -237,7 +237,8 @@
     "Tests": 11921504,
     "Tests_Diff": 103825,
     "Unique_tests": 4080550,
-    "Unique_tests_Diff": 10693
+    "Unique_tests_Diff": 10693,
+    "OBJECTID": 291
   },
   {
     "_id": "6002e40e74b9da09383fe71c",
@@ -261,7 +262,8 @@
     "Tests": 11817679,
     "Tests_Diff": 96091,
     "Unique_tests": 4069857,
-    "Unique_tests_Diff": 8636
+    "Unique_tests_Diff": 8636,
+    "OBJECTID": 290
   },
   {
     "_id": "6001944074b9da09382a894b",
@@ -285,7 +287,32 @@
     "Tests": 11721588,
     "Tests_Diff": 52270,
     "Unique_tests": 4061221,
-    "Unique_tests_Diff": 4155
+    "Unique_tests_Diff": 4155,
+    "OBJECTID": 289
+  },
+  {
+    "_id": "60116008645bdbae2e6379ab",
+    "dateString": "2021-01-14",
+    "Admissions": 839,
+    "Admissions_diff": -20,
+    "Daily_Dead": 43,
+    "Daily_Infected": 1502,
+    "Daily_Infected_Diff": 144,
+    "Daily_Recovered": 2745,
+    "Date": 1610582400000,
+    "Dead": 1703,
+    "Infected": 186661,
+    "Intensive": 128,
+    "Intensive_diff": -9,
+    "New_Admissions": 109,
+    "OBJECTID": 288,
+    "Recovered": 163939,
+    "Respirator": 92,
+    "Respirator_diff": 2,
+    "Tests": 11669318,
+    "Tests_Diff": 112415,
+    "Unique_tests": 4057066,
+    "Unique_tests_Diff": 9372
   },
   {
     "_id": "5ffeef9874b9da093801b1ad",
@@ -309,7 +336,8 @@
     "Tests": 11556903,
     "Tests_Diff": 82795,
     "Unique_tests": 4047694,
-    "Unique_tests_Diff": 8272
+    "Unique_tests_Diff": 8272,
+    "OBJECTID": 287
   },
   {
     "_id": "5ffd9ceb74b9da0938ee4ac4",
@@ -333,30 +361,7 @@
     "Tests": 11474108,
     "Tests_Diff": 57956,
     "Unique_tests": 4039422,
-    "Unique_tests_Diff": 6286
-  },
-  {
-    "_id": "5ffc4c9774b9da0938dbc61e",
-    "dateString": "2021-01-11",
-    "Admissions": 920,
-    "Admissions_diff": 45,
-    "Daily_Dead": 27,
-    "Daily_Infected": 1239,
-    "Daily_Infected_Diff": -7,
-    "Daily_Recovered": 2148,
-    "Date": 1610323200000,
-    "Dead": 1597,
-    "Infected": 182725,
-    "Intensive": 138,
-    "Intensive_diff": 0,
-    "New_Admissions": 104,
-    "ObjectId": 229,
-    "Recovered": 155713,
-    "Respirator": 88,
-    "Respirator_diff": 4,
-    "Tests": 11416152,
-    "Tests_Diff": 55706,
-    "Unique_tests": 4033136,
-    "Unique_tests_Diff": 6738
+    "Unique_tests_Diff": 6286,
+    "OBJECTID": 286
   }
 ]
