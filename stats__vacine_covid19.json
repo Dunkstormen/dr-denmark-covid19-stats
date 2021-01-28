@@ -2,14 +2,14 @@
   "filename": "a985e7e1d06449a626d00854140f8619-coronadataforsidewidget-data.json",
   "title": "Corona-data / Forsidewidget",
   "sheetTitle": "Data",
-  "updated": "2021-01-28T13:05:20.233Z",
+  "updated": "2021-01-28T20:01:10.793Z",
   "data": [
     {
       "begyndtevacciner": "183973",
       "begyndtevaccinerpct": "3.151726689",
       "færdigvaccinerede": "37094",
       "færdigvaccineredepct": "0.6354744978",
-      "disclaimer": "",
+      "disclaimer": "Fejl i torsdagens tal fra SSI: Antal smittede skulle have været 423. Opgørelsen dækker kun 18 timer, ikke et helt døgn.",
       "fejl": ""
     }
   ]
