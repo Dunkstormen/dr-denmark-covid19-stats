@@ -2,14 +2,14 @@
   "filename": "a985e7e1d06449a626d00854140f8619-coronadataforsidewidget-data.json",
   "title": "Corona-data / Forsidewidget",
   "sheetTitle": "Data",
-  "updated": "2021-01-29T13:45:47.531Z",
+  "updated": "2021-01-29T14:58:52.205Z",
   "data": [
     {
       "begyndtevacciner": "184307",
       "begyndtevaccinerpct": "3.157448597",
       "færdigvaccinerede": "44568",
       "færdigvaccineredepct": "0.7635150542",
-      "disclaimer": "Der er i øjeblikket tekniske problemer med at vise fredagens tal for smittede, indlagte og døde.",
+      "disclaimer": "Der er fejl i fredagens smittetal fra SSI. Der er registreret 701 smittede (over 30 timer mod normalt 24).",
       "fejl": ""
     }
   ]
