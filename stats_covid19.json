@@ -1,5 +1,29 @@
 [
   {
+    "_id": "6016aa8cc83fcf2461656865",
+    "dateString": "2021-01-31",
+    "Admissions": 534,
+    "Admissions_diff": -7,
+    "Daily_Dead": 19,
+    "Daily_Infected": 377,
+    "Daily_Infected_Diff": -54,
+    "Daily_Recovered": 706,
+    "Date": 1612051200000,
+    "Dead": 2125,
+    "Infected": 198472,
+    "Intensive": 98,
+    "Intensive_diff": -4,
+    "New_Admissions": 21,
+    "ObjectId": 153,
+    "Recovered": 187318,
+    "Respirator": 73,
+    "Respirator_diff": -6,
+    "Tests": 13495620,
+    "Tests_Diff": 126275,
+    "Unique_tests": 4200576,
+    "Unique_tests_Diff": 6948
+  },
+  {
     "_id": "601557e0c83fcf246151c823",
     "dateString": "2021-01-30",
     "Admissions": 541,
@@ -14,7 +38,7 @@
     "Intensive": 102,
     "Intensive_diff": -1,
     "New_Admissions": 55,
-    "ObjectId": 151,
+    "ObjectId": 152,
     "Recovered": 186612,
     "Respirator": 79,
     "Respirator_diff": 8,
@@ -38,7 +62,7 @@
     "Intensive": 103,
     "Intensive_diff": -10,
     "New_Admissions": 63,
-    "ObjectId": 150,
+    "ObjectId": 151,
     "Recovered": 185769,
     "Respirator": 71,
     "Respirator_diff": -13,
@@ -170,7 +194,7 @@
     "Tests_Diff": 136208,
     "Unique_tests": 4148570,
     "Unique_tests_Diff": 9327,
-    "ObjectId": 144
+    "ObjectId": 145
   },
   {
     "_id": "600c1e99645bdbae2e0c60cd",
@@ -195,7 +219,7 @@
     "Tests_Diff": 144510,
     "Unique_tests": 4139243,
     "Unique_tests_Diff": 10242,
-    "ObjectId": 142
+    "ObjectId": 144
   },
   {
     "_id": "600acd19645bdbae2ef6bd91",
@@ -220,7 +244,7 @@
     "Tests_Diff": 115927,
     "Unique_tests": 4129001,
     "Unique_tests_Diff": 9395,
-    "ObjectId": 140
+    "ObjectId": 143
   },
   {
     "_id": "60097ea1645bdbae2ee14a23",
@@ -245,7 +269,7 @@
     "Tests_Diff": 114074,
     "Unique_tests": 4119606,
     "Unique_tests_Diff": 9708,
-    "ObjectId": 138
+    "ObjectId": 142
   },
   {
     "_id": "60082b52645bdbae2ecb8741",
@@ -270,7 +294,7 @@
     "Tests_Diff": 111069,
     "Unique_tests": 4109898,
     "Unique_tests_Diff": 10430,
-    "ObjectId": 136
+    "ObjectId": 141
   },
   {
     "_id": "6006d891645bdbae2eb38db9",
@@ -295,7 +319,7 @@
     "Tests_Diff": 83705,
     "Unique_tests": 4099468,
     "Unique_tests_Diff": 9241,
-    "ObjectId": 134
+    "ObjectId": 140
   },
   {
     "_id": "6005d0ea645bdbae2ea2e354",
@@ -320,7 +344,7 @@
     "Tests_Diff": 85460,
     "Unique_tests": 4090227,
     "Unique_tests_Diff": 9677,
-    "ObjectId": 132
+    "ObjectId": 139
   },
   {
     "_id": "60043592645bdbae2e88b314",
@@ -337,7 +361,7 @@
     "Intensive": 131,
     "Intensive_diff": -6,
     "New_Admissions": 81,
-    "ObjectId": 130,
+    "ObjectId": 138,
     "Recovered": 168379,
     "Respirator": 84,
     "Respirator_diff": -2,
@@ -346,30 +370,5 @@
     "Unique_tests": 4080550,
     "Unique_tests_Diff": 10693,
     "OBJECTID": 291
-  },
-  {
-    "_id": "6002e40e74b9da09383fe71c",
-    "dateString": "2021-01-16",
-    "Admissions": 779,
-    "Admissions_diff": -13,
-    "Daily_Dead": 27,
-    "Daily_Infected": 879,
-    "Daily_Infected_Diff": 220,
-    "Daily_Recovered": 1201,
-    "Date": 1610755200000,
-    "Dead": 1747,
-    "Infected": 188199,
-    "Intensive": 137,
-    "Intensive_diff": 8,
-    "New_Admissions": 98,
-    "ObjectId": 128,
-    "Recovered": 166367,
-    "Respirator": 86,
-    "Respirator_diff": -1,
-    "Tests": 11817679,
-    "Tests_Diff": 96091,
-    "Unique_tests": 4069857,
-    "Unique_tests_Diff": 8636,
-    "OBJECTID": 290
   }
 ]
