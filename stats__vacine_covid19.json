@@ -2,13 +2,13 @@
   "filename": "a985e7e1d06449a626d00854140f8619-coronadataforsidewidget-data.json",
   "title": "Corona-data / Forsidewidget",
   "sheetTitle": "Data",
-  "updated": "2021-02-02T13:16:32.844Z",
+  "updated": "2021-02-03T13:16:30.417Z",
   "data": [
     {
-      "begyndtevacciner": "189148",
-      "begyndtevaccinerpct": "3.240382011",
-      "færdigvaccinerede": "93746",
-      "færdigvaccineredepct": "1.606006154",
+      "begyndtevacciner": "191366",
+      "begyndtevaccinerpct": "3.278379597",
+      "færdigvaccinerede": "98146",
+      "færdigvaccineredepct": "1.681384592",
       "disclaimer": "",
       "fejl": ""
     }
