@@ -2,7 +2,7 @@
   "filename": "a985e7e1d06449a626d00854140f8619-coronadataforsidewidget-data.json",
   "title": "Corona-data / Forsidewidget",
   "sheetTitle": "Data",
-  "updated": "2021-02-09T13:25:22.954Z",
+  "updated": "2021-02-09T14:16:47.287Z",
   "data": [
     {
       "begyndtevacciner": "199353",
@@ -10,7 +10,7 @@
       "færdigvaccinerede": "139116",
       "færdigvaccineredepct": "2.383260642",
       "disclaimer": "",
-      "fejl": "Virker ikke på grund af teknisk fejl hos SSI."
+      "fejl": ""
     }
   ]
 }
