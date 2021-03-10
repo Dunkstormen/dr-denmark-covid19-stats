@@ -2,14 +2,14 @@
   "filename": "a985e7e1d06449a626d00854140f8619-coronadataforsidewidget-data.json",
   "title": "Corona-data / Forsidewidget",
   "sheetTitle": "Data",
-  "updated": "2021-03-01T14:24:34.525Z",
+  "updated": "2021-03-10T12:49:54.955Z",
   "data": [
     {
-      "begyndtevacciner": "429887",
-      "begyndtevaccinerpct": "7.364593343",
-      "færdigvaccinerede": "184435",
-      "færdigvaccineredepct": "3.159641425",
-      "disclaimer": "",
+      "begyndtevacciner": "449723",
+      "begyndtevaccinerpct": "7.704413048",
+      "færdigvaccinerede": "185677",
+      "færdigvaccineredepct": "3.180918702",
+      "disclaimer": "Bemærk: Fra 10. marts inkluderer smittetallene test fra private aktører. Det kan give et kunstigt 'hop' i tallene.",
       "fejl": ""
     }
   ]
