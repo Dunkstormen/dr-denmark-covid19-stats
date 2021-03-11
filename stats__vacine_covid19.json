@@ -2,14 +2,14 @@
   "filename": "a985e7e1d06449a626d00854140f8619-coronadataforsidewidget-data.json",
   "title": "Corona-data / Forsidewidget",
   "sheetTitle": "Data",
-  "updated": "2021-03-11T09:16:30.423Z",
+  "updated": "2021-03-11T14:29:38.040Z",
   "data": [
     {
       "begyndtevacciner": "449723",
       "begyndtevaccinerpct": "7.704413048",
       "færdigvaccinerede": "185677",
       "færdigvaccineredepct": "3.180918702",
-      "kilde": "Kilde: SSI. Smittede, testede og døde er antal registrerede seneste døgn. Fra 10. marts er test fra private udbydere også inkluderet.",
+      "kilde": "Kilde: SSI. Smittede, testede og døde er antal registrerede seneste døgn. Fra 10. marts er test fra private udbydere også inkluderet, hvilket giver højere smittetal. ",
       "disclaimer": "",
       "fejl": ""
     }
