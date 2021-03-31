@@ -2,7 +2,7 @@
   "filename": "a985e7e1d06449a626d00854140f8619-coronadataforsidewidget-data.json",
   "title": "Corona-data / Forsidewidget",
   "sheetTitle": "Data",
-  "updated": "2021-03-30T12:25:22.792Z",
+  "updated": "2021-03-31T12:40:32.496Z",
   "data": [
     {
       "begyndtevacciner": "449723",
@@ -10,7 +10,7 @@
       "færdigvaccinerede": "185677",
       "færdigvaccineredepct": "3.180918702",
       "kilde": "Kilde: SSI. Smittede, testede og døde er antal registrerede seneste døgn. ",
-      "disclaimer": "OBS: Smittetallet 30. marts er kunstigt højt, fordi SSI har efterregistreret gamle prøver. Det korrekte tal for seneste døgn er 722 tilfælde. Positivprocenten er 0,45.",
+      "disclaimer": "OBS: Smittetallet 30. marts var kunstigt højt, fordi SSI efterregistrerede gamle prøver. Det korrekte tal var 722.",
       "fejl": ""
     }
   ]
