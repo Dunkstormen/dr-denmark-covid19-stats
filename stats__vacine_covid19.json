@@ -2,7 +2,7 @@
   "filename": "a985e7e1d06449a626d00854140f8619-coronadataforsidewidget-data.json",
   "title": "Corona-data / Forsidewidget",
   "sheetTitle": "Data",
-  "updated": "2021-04-27T18:29:17.883Z",
+  "updated": "2021-04-28T12:06:30.421Z",
   "data": [
     {
       "begyndtevacciner": "449723",
@@ -10,16 +10,7 @@
       "færdigvaccinerede": "185677",
       "færdigvaccineredepct": "3.180918702",
       "kilde": "Kilde: SSI. Smittede, testede og døde er antal registrerede seneste døgn. ",
-      "disclaimer": "",
-      "fejl": ""
-    },
-    {
-      "begyndtevacciner": "",
-      "begyndtevaccinerpct": "",
-      "færdigvaccinerede": "",
-      "færdigvaccineredepct": "",
-      "kilde": "",
-      "disclaimer": "27. April: Dagens tal er endnu ikke opdateret pga. tekniske problemer hos SSI.",
+      "disclaimer": "28. April: Dagens tal er endnu ikke opdateret pga. tekniske problemer hos SSI.",
       "fejl": ""
     }
   ]
