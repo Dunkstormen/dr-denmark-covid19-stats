@@ -2,7 +2,7 @@
   "filename": "a985e7e1d06449a626d00854140f8619-coronadataforsidewidget-data.json",
   "title": "Corona-data / Forsidewidget",
   "sheetTitle": "Data",
-  "updated": "2021-04-28T15:24:47.196Z",
+  "updated": "2021-04-29T12:05:34.700Z",
   "data": [
     {
       "begyndtevacciner": "449723",
@@ -10,6 +10,15 @@
       "færdigvaccinerede": "185677",
       "færdigvaccineredepct": "3.180918702",
       "kilde": "Kilde: SSI. Smittede, testede og døde er antal registrerede seneste døgn. ",
+      "disclaimer": "Smittetallet 29. april kan være for lavt, da der mangler data om testresultater fra en privat udbyder.",
+      "fejl": ""
+    },
+    {
+      "begyndtevacciner": "",
+      "begyndtevaccinerpct": "",
+      "færdigvaccinerede": "",
+      "færdigvaccineredepct": "",
+      "kilde": "",
       "disclaimer": "28. April: Dagens smittetal er kunstigt højt på grund af efterregistreringer. Seneste døgn er der registreret 751 nye smittede.",
       "fejl": ""
     }
