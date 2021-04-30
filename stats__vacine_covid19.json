@@ -2,7 +2,7 @@
   "filename": "a985e7e1d06449a626d00854140f8619-coronadataforsidewidget-data.json",
   "title": "Corona-data / Forsidewidget",
   "sheetTitle": "Data",
-  "updated": "2021-04-29T12:05:34.700Z",
+  "updated": "2021-04-30T12:56:46.173Z",
   "data": [
     {
       "begyndtevacciner": "449723",
@@ -10,7 +10,7 @@
       "færdigvaccinerede": "185677",
       "færdigvaccineredepct": "3.180918702",
       "kilde": "Kilde: SSI. Smittede, testede og døde er antal registrerede seneste døgn. ",
-      "disclaimer": "Smittetallet 29. april kan være for lavt, da der mangler data om testresultater fra en privat udbyder.",
+      "disclaimer": "Smittetallet 30. april kan være for højt, da det inkluderer test, der er mere end et døgn gamle.",
       "fejl": ""
     },
     {
